@@ -309,8 +309,8 @@ export default function WelcomePage() {
 
           {/* ✅ buttons instead of <a href="#"> — no more warnings */}
           <div className="nav-links">
-            <a className="nav-btn" href="https://www.instagram.com/saleem_1l?igsh=MW00OGE4NHd1d3VyMQ==" target="_blank" rel="noreferrer">instagram</a>
-            <a className="nav-btn" href="https://www.linkedin.com/in/sayed-hussein-9a64ba395" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a className="nav-btn" href="https://www.instagram.com/" target="_blank" rel="noreferrer">instagram</a>
+            <a className="nav-btn" href="https://www.linkedin.com/" target="_blank" rel="noreferrer">LinkedIn</a>
             <a className="nav-btn" href="https://github.com/alaa-fawzy-sayed/Home-Schooling-Project" target="_blank" rel="noreferrer">GitHub</a>
           </div>
         </nav>
